@@ -1,6 +1,6 @@
 === DeepSeek Natural Translator for TranslatePress ===
 Contributors: mreproperty
-Donate link: https://montenegro-real-estate.com
+Donate link: https://montenegroestates.com
 Tags: translation, translatepress, deepseek, ai, multilingual, balkan, serbian, croatian, montenegrin
 Requires at least: 6.0
 Tested up to: 6.8
