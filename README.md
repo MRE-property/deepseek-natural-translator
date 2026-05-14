@@ -62,12 +62,12 @@ Translations are cached, so visitors get instant page loads with no API calls.
 
 = 🇲🇪 Created by Montenegro Real Estate Experts =
 
-**[MRE-Property Montenegro](https://montenegro-real-estate.com)** has been serving international clients since 2010. We understand the importance of natural, professional translations for reaching global audiences.
+**[MRE-Property Montenegro](https://montenegroestates.com)** has been serving international clients since 2010. We understand the importance of natural, professional translations for reaching global audiences.
 
 This plugin was born from our need for high-quality, cost-effective translations for our real estate listings in multiple languages.
 
 **Looking for property in Montenegro?**  
-[Visit Our Website](https://montenegro-real-estate.com) →
+[Visit Our Website](https://montenegroestates.com) →
 
 = 💰 Cost Comparison =
 
@@ -88,7 +88,7 @@ This plugin was born from our need for high-quality, cost-effective translations
 6. Enter your API key
 7. Add your languages and start translating!
 
-Full installation guide in our [documentation](https://montenegro-real-estate.com/docs).
+Full installation guide in our [documentation](https://montenegroestates.com/docs).
 
 == Frequently Asked Questions ==
 
@@ -110,7 +110,7 @@ Yes! Full Montenegrin support with Latin alphabet.
 
 = Who created this? =
 
-**MRE-Property Montenegro** - [montenegro-real-estate.com](https://montenegro-real-estate.com)
+**MRE-Property Montenegro** - [montenegroestates.com](https://montenegroestates.com)
 
 == Changelog ==
 
@@ -124,14 +124,14 @@ Yes! Full Montenegrin support with Latin alphabet.
 
 == About MRE-Property Montenegro ==
 
-**[MRE-Property Montenegro](https://montenegro-real-estate.com)** - Montenegro's premier real estate agency since 2010.
+**[MRE-Property Montenegro](https://montenegroestates.com)** - Montenegro's premier real estate agency since 2010.
 
 🏠 Luxury Property Sales  
 💼 Investment Consulting  
 🌍 International Client Service  
 
 **Looking for Property in Montenegro?**  
-[montenegro-real-estate.com](https://montenegro-real-estate.com) →
+[montenegroestates.com](https://montenegroestates.com) →
 
 ---
 
