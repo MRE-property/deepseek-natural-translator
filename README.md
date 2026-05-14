@@ -15,7 +15,7 @@ Professional, natural-sounding AI translations for TranslatePress. Created by Mo
 
 **DeepSeek Natural Translator** transforms TranslatePress into a powerful, natural translation engine using advanced DeepSeek AI technology.
 
-Created by **[MRE-Property Montenegro](https://montenegro-real-estate.com)** - Montenegro's leading real estate experts - this plugin delivers human-quality translations that don't sound robotic.
+Created by **[MRE-Property Montenegro](https://montenegroestates.com)** - Montenegro's leading real estate experts - this plugin delivers human-quality translations that don't sound robotic.
 
 = 🌟 Why This Plugin? =
 
